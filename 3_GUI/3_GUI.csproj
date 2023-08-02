@@ -19,4 +19,8 @@
     <PackageReference Include="ZXing.Net" Version="0.14.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\2_BUS\2_BUS.csproj" />
+  </ItemGroup>
+
 </Project>
