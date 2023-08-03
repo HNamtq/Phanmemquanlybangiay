@@ -38,7 +38,7 @@ namespace _1_DAL.Dbcontext
 		}
 		protected override void OnConfiguring(DbContextOptionsBuilder dbContextOptionsBuilder)
 		{
-			dbContextOptionsBuilder.UseSqlServer(@"Data Source=DESKTOP-KJB2OC3\SQLEXPRESS;Initial Catalog=hoangnam03;Integrated Security=True");
+			dbContextOptionsBuilder.UseSqlServer(@"Data Source=ADMIN\SQLEXPRESS;Initial Catalog=hoangnam03;Integrated Security=True");
 		}
 		public virtual DbSet<ChucVu> ChucVus { get; set; }
 		public virtual DbSet<NhanVien> NhanViens { get; set; }
