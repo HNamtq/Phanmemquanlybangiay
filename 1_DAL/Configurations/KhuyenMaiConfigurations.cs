@@ -18,7 +18,7 @@ namespace _1_DAL.Configurations
 			builder.Property(x => x.Ma);
 			builder.Property(x => x.Ten).HasMaxLength(200);
 			builder.Property(x => x.TrangThai);
-			builder.Property(x => x.GhiChu);
+			//builder.Property(x => x.GhiChu);
 			builder.Property(x => x.NgayBatDau);
 			builder.Property(x => x.NgayKetThuc);
 			builder.Property(x => x.HinhThuc);

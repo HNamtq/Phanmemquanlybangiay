@@ -13,7 +13,7 @@ namespace _1_DAL.DomainMolder
 		public string Ma { get; set; }
 		public string Ten { get; set; }
 		public int TrangThai { get; set; }
-		public string GhiChu { get; set; }
+		//public string GhiChu { get; set; }
 		public string HinhThuc { get; set; }
 		public DateTime NgayBatDau { get; set; }
 		public DateTime NgayKetThuc { get; set; }

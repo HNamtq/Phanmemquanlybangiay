@@ -11,7 +11,7 @@ namespace _1_DAL.DomainMolder
 		public Guid ID { get; set; }
 		public Guid IDHD { get; set; }
 		public Guid IDSPCT { get; set; }
-		public string Ma { get; set; }
+		public string? Ma { get; set; }
 		public int SoLuong { get; set; }
 		public decimal DonGia { get; set; }
 		public int TrangThai { get; set; }

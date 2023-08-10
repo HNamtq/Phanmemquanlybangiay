@@ -167,7 +167,7 @@
 			// 
 			// btn_Reset
 			// 
-			btn_Reset.Location = new Point(75, 172);
+			btn_Reset.Location = new Point(75, 181);
 			btn_Reset.Name = "btn_Reset";
 			btn_Reset.Size = new Size(94, 29);
 			btn_Reset.TabIndex = 12;
@@ -187,7 +187,7 @@
 			// 
 			// btn_Sua
 			// 
-			btn_Sua.Location = new Point(75, 83);
+			btn_Sua.Location = new Point(75, 92);
 			btn_Sua.Name = "btn_Sua";
 			btn_Sua.Size = new Size(94, 29);
 			btn_Sua.TabIndex = 10;

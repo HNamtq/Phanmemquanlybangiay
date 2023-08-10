@@ -187,7 +187,7 @@
 			// 
 			// btn_Sua
 			// 
-			btn_Sua.Location = new Point(96, 83);
+			btn_Sua.Location = new Point(96, 93);
 			btn_Sua.Name = "btn_Sua";
 			btn_Sua.Size = new Size(94, 29);
 			btn_Sua.TabIndex = 1;
@@ -197,7 +197,7 @@
 			// 
 			// btn_Them
 			// 
-			btn_Them.Location = new Point(96, 37);
+			btn_Them.Location = new Point(96, 47);
 			btn_Them.Name = "btn_Them";
 			btn_Them.Size = new Size(94, 29);
 			btn_Them.TabIndex = 0;
